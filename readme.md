@@ -1,6 +1,6 @@
 
 ### 爬取 **LetPub** 专业词汇，[词汇表链接](https://www.letpub.com.cn/index.php?page=dict&level1=allfields)
- 本仓库中主要包含一下方向专业词汇-- scientific vocabulary：
+ 本仓库中主要包含以下方向专业词汇-- scientific vocabulary：
 - 农学  *Agriculture*
 - 土壤学 *Soil*
 - 大气科学 *Atmosphere*
