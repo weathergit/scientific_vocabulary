@@ -5,7 +5,7 @@
 - 土壤学 *Soil*
 - 大气科学 *Atmosphere*
 - 林学 *Forest*
-- 神态学 *Ecology*
+- 生态学 *Ecology*
 
 根据需要可使用voc_spider.py自行下载
 ## usage
